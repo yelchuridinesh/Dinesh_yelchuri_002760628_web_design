@@ -1,5 +1,3 @@
-# Dinesh_yelchuri_002760628_web_design
-
 Yelchuri Dinesh -002760628
 
 Considered all the below mentioned requirements for the Assignment4
@@ -15,5 +13,4 @@ Considered all the below mentioned requirements for the Assignment4
 •	On submit, make sure all the form fields gets cleared out
 •	Add validation for email address (restrict the domain to @northeastern.edu)
 •	Street address 2 is not a mandatory field, on submit click if the field is blank then 
-        its value in the table should be blank as well
-
+    its value in the table should be blank as well
