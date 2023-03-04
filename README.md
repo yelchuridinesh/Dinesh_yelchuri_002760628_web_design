@@ -21,4 +21,16 @@ The Calculator page takes the input of two numbers are performs 4 basic operatio
 
 Onclick of operation, result will be displayed, which is read-only,
 
+PART-B
+
+Name: Dinesh Yelchuri
+NU ID: 002760628
+
+=========================================================================================
+
+Stopwatch:
+
+Created stopwatch with 3 buttons - Start, Stop and Reset.
+Works as label names.
+
 
