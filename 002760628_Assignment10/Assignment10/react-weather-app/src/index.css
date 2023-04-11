@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(247, 247, 247) !important;
+    background: url(https://img.freepik.com/free-vector/gorgeous-clouds-background-with-blue-sky-design_1017-25501.jpg?w=1800&t=st=1670018732~exp=1670019332~hmac=9562e2ec2d9dfac14500e75a93b2614a2c5aea6b76cc54fbc54ea6ef9bfb5d86) no-repeat center center fixed;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.card {
+    display: inline-block !important;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(200, 61, 61); */
+}
+
+h1 {
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+
+.displayContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.row {
+    flex: 1 0 400px;
+    box-sizing: border-box;
+    margin: 1rem .25em;
+}
